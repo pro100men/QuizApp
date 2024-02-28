@@ -30,7 +30,7 @@ class _MyHomePageState extends State<MyHomePage> {
           context: context,
           builder: (BuildContext context) {
             return AlertDialog(
-              title: const Text('Тест аяктады!!!'),
+              title: const Text('Тест аяктады!'),
               content: Text(
                 'Суроолордун саны: ${jooptor.length}\n'
                 'Сенин туура жоопторун: ${tuuraJooptor.length}\n'
